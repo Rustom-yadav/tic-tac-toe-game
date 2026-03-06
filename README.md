@@ -2,7 +2,7 @@
 
 A clean, responsive **two-player** Tic Tac Toe game built with React and Vite. Includes undo, win highlighting, and a simple, accessible UI.
 
-**[Live Demo](https://your-username.github.io/tic-tac-toe-game)** · **[Repository](https://github.com/Rustom-yadav/tic-tac-toe-game)**
+**[Live Demo](https://tic-tac-toe-game-zeta-indol.vercel.app/)** · **[Repository](https://github.com/Rustom-yadav/tic-tac-toe-game)**
 
 
 ## Features
